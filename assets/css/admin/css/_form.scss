@@ -1,0 +1,49 @@
+form{
+    padding: 40px;
+
+    p{
+        font-size: 18px;
+        padding-bottom: 10px;
+
+        input{
+            border-radius: 10px;
+
+            &:focus{
+                outline: none;
+            }
+        }
+
+        select{
+            padding: 5px 10px;
+        }
+
+        input, textarea {
+            padding:10px 16px;
+            width: 100%;
+            display: block;
+            margin:10px 0px;
+            border:2px solid #9ba37c;
+            border-radius: 10px;
+
+            &:focus{
+                outline: none;
+            }
+        }
+
+        label{
+            display: block;
+        }
+
+        textarea {
+            height: 160px;
+        }
+        
+        .publishText{
+            margin-bottom: 10px;
+        }
+    }
+
+}
+
+
+

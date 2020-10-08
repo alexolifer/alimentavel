@@ -1,0 +1,16 @@
+
+
+PÁGINA DE ADMINISTRAÇÃO
+[] Criar forma de inserção de artigos externos
+[] Criar índice de artigos (à partida de outros sites) e disponibilizar a hipótese do administrador criar artigos de igual forma do próprio site (onde o utilizador - ao invés de ser redirecionado para outro site, abrir o artigo num 'article_view')
+[] Adicionar campo para adicionar link de artigos externos, título e imagem
+
+/////
+INDEX
+[] Criar div de início de sessão com opção de registo e trabalhar o backend de modo a que as informações do utilizador sejam enviadas para a base de dados para que possa iniciar sessão com essas credenciais
+
+///////
+RECEITAS
+
+[x - ANTÓNIO ] Eliminar o Search do header e introduzir apenas na página das receitas]
+    [] -> Fazer a ligação da barra de search com o título das receitas

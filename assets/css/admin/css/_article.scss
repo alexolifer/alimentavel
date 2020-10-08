@@ -1,0 +1,13 @@
+.articles{
+    width: 100vw;
+    padding: 10px 20px;
+
+
+	.article {
+    	display: grid;
+    	grid-template-columns: 80px auto 100px 100px 100px;
+    	grid-gap: 20px;
+	    border-bottom: 1px solid #ddd;
+	    padding: 14px 0px;
+	}
+}
