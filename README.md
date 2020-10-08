@@ -7,6 +7,6 @@
 <p>https://github.com/ChristelleMalta</p>
 
 # Admin Page
-<p>http://localhost/alexandre/alimentavel/alimentavel/admin/login</p>
+<p>http://localhost/ (...) /alimentavel/admin/login</p>
 Login: admin@admin.com<br>
 Password: admin
