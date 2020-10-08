@@ -15,7 +15,7 @@
             <div>
                 <?php if($video['publish'] == 1):?>
                     <a class="toggle-publish published" data-id="<?=$video['id'];?>" data-controller="videos"></a>
-                 <?php else:?>
+                <?php else:?>
 
                     <a class="toggle-publish unpublished" data-id="<?=$video['id'];?>" data-controller="videos"></a>
                 <?php endif;?>

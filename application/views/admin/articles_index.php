@@ -25,7 +25,7 @@
                     <div>
                         <?php if($article['publish'] == 1):?>
                             <a class="toggle-publish published" data-id="<?=$article['id'];?>" data-controller="articles"></a>
-                         <?php else:?>
+                        <?php else:?>
 
                             <a class="toggle-publish unpublished" data-id="<?=$article['id'];?>" data-controller="articles"></a>
                         <?php endif;?>
