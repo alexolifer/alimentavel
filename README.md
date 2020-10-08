@@ -1,8 +1,8 @@
-# alimentavel
+# Alimentavel
  Project created to the final test of ETIC's Web Development Course.
 
 # Developers
 
-https://github.com/alexolifer
-https://github.com/AnthonyIsBlacking
-https://github.com/ChristelleMalta
+<p>https://github.com/alexolifer</p>
+<p>https://github.com/AnthonyIsBlacking</p>
+<p>https://github.com/ChristelleMalta</p>
